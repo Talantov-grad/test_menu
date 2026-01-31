@@ -2,6 +2,8 @@ VAR has_key = false
 VAR has_map = false
 VAR has_rope = false
 
+-> player_room
+
 === player_room ===
 #Location: fon
 
